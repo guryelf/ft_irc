@@ -1,0 +1,15 @@
+# Build outputs
+obj/
+obj_asan/
+ircserv
+ircserv_asan
+unit_tests
+
+# Python bytecode from the integration tests
+__pycache__/
+
+# Local tooling: CodeGraph code index
+.codegraph/
+
+# Subject PDF: not a submission file
+en.subject.pdf
